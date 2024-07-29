@@ -31,3 +31,5 @@ Como clonar o projeto
 ```bash
 git clone git@github.com:AlanRCosta/forum-hub.git
 ```
+<h3>Uso</h3>
+Após iniciar a API será possível acessar os diversos endpoints utilizados para gerenciar os usuários, o login, os tópicos e as respostas.

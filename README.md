@@ -17,8 +17,6 @@
 
 <h2 id="started">🚀 Começando</h2>
 
-Here you describe how to run your project locally
-
 <h3>Pré-requisitos</h3>
 
 - Certifique-se de ter o Java JDK 17 ou superior instalado.
